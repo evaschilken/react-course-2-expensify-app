@@ -2,16 +2,20 @@
 
 exports[`should render expenses summary with multiple expenses 1`] = `
 <div>
-  Viewing 3 expenses 
+  Viewing 
+  3
+   expenses 
   totalling 
-  $1,996.95
+  $12,400.99
 </div>
 `;
 
 exports[`should render expenses summary with one expense 1`] = `
 <div>
-  Viewing 1 expense 
+  Viewing 
+  1
+   expense 
   totalling 
-  $1.95
+  $12.00
 </div>
 `;
